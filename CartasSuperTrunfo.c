@@ -53,7 +53,7 @@ int main() {
 
     printf("População: %lf\n", populacao);
 
-    printf("Area: %f\n", area);
+    printf("Area: %lf\n", area);
 
     printf("Pib: %lf\n", pib);
 
